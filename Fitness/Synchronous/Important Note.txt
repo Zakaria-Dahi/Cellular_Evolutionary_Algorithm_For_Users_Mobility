@@ -1,0 +1,2 @@
+This synchronous cGA is exactly the correct one proposed/used by Alba in its paper but the litlte thing is that it was at the begining run without
+adding the condition ">=" that allows the algorithms to get out of the platos. Now, I added it after runing the algorithm.
